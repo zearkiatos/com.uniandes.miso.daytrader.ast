@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaapplication:Java2File>
+    <file href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.2"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="653" endLine="18" endPosition="680">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="681" endLine="19" endPosition="703">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="705" endLine="21" endPosition="751">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="752" endLine="22" endPosition="787">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="788" endLine="23" endPosition="828">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="829" endLine="24" endPosition="856">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="857" endLine="25" endPosition="885">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="886" endLine="26" endPosition="915">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="916" endLine="27" endPosition="939">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="940" endLine="28" endPosition="964">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="965" endLine="29" endPosition="989">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="990" endLine="30" endPosition="1019">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.11"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="1020" endLine="31" endPosition="1048">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.12"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="1049" endLine="32" endPosition="1083">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.13"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="1085" endLine="34" endPosition="1151">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.14"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="1152" endLine="35" endPosition="1220">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.15"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="1221" endLine="36" endPosition="1281">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.16"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="37" startPosition="1282" endLine="37" endPosition="1354">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26/@imports.17"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1356" endLine="39" endPosition="1371">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1356" endLine="84" endPosition="2584">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1357" endLine="39" endPosition="1361">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1362" endLine="39" endPosition="1370">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@annotations.0/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1372" endLine="40" endPosition="1386">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1373" endLine="40" endPosition="1386">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1419" endLine="43" endPosition="1454">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1427" endLine="43" endPosition="1440">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1427" endLine="43" endPosition="1440">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1441" endLine="43" endPosition="1453">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="1463" endLine="47" endPosition="1491">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="1486" endLine="47" endPosition="1491">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1497" endLine="49" endPosition="1504">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1497" endLine="52" endPosition="1709">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1498" endLine="49" endPosition="1504">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1529" endLine="50" endPosition="1566">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1529" endLine="50" endPosition="1533">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@parameters.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1530" endLine="50" endPosition="1533">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@parameters.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1534" endLine="50" endPosition="1557">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1568" endLine="52" endPosition="1709">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1574" endLine="51" endPosition="1586">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1574" endLine="51" endPosition="1704">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1574" endLine="51" endPosition="1705">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1589" endLine="51" endPosition="1698">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1589" endLine="51" endPosition="1597">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1589" endLine="51" endPosition="1704">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1605" endLine="51" endPosition="1697">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1609" endLine="51" endPosition="1632">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1609" endLine="51" endPosition="1632">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1633" endLine="51" endPosition="1666">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@arguments.0/@array"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1633" endLine="51" endPosition="1644">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@arguments.0/@array/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1633" endLine="51" endPosition="1696">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1667" endLine="51" endPosition="1695">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@arguments.0/@index"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1667" endLine="51" endPosition="1678">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.2/@body/@statements.0/@expression/@rightHandSide/@expression/@arguments.0/@arguments.0/@index/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1713" endLine="59" endPosition="1893">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1713" endLine="54" endPosition="1717">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1714" endLine="54" endPosition="1717">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1720" endLine="55" endPosition="1757">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1721" endLine="55" endPosition="1729">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1730" endLine="55" endPosition="1739">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.1/@values.0/@value/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1730" endLine="55" endPosition="1756">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1740" endLine="55" endPosition="1756">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1760" endLine="56" endPosition="1779">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1761" endLine="56" endPosition="1765">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1766" endLine="56" endPosition="1778">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@annotations.2/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1789" endLine="57" endPosition="1808">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1819" endLine="57" endPosition="1855">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1819" endLine="57" endPosition="1840">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1820" endLine="57" endPosition="1829">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1830" endLine="57" endPosition="1839">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0/@annotations.0/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1841" endLine="57" endPosition="1847">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1841" endLine="57" endPosition="1847">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1857" endLine="59" endPosition="1893">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1863" endLine="58" endPosition="1889">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1870" endLine="58" endPosition="1888">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1880" endLine="58" endPosition="1887">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1897" endLine="61" endPosition="1902">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1897" endLine="66" endPosition="2110">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="61" startPosition="1898" endLine="61" endPosition="1902">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="1905" endLine="62" endPosition="1955">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="1906" endLine="62" endPosition="1914">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="1915" endLine="62" endPosition="1954">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="1917" endLine="62" endPosition="1952">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.1/@values.0/@value/@expressions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1958" endLine="63" endPosition="1995">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1959" endLine="63" endPosition="1967">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1968" endLine="63" endPosition="1994">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.2/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1968" endLine="63" endPosition="1977">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.2/@values.0/@value/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1978" endLine="63" endPosition="1994">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@annotations.2/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2005" endLine="64" endPosition="2024">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2036" endLine="64" endPosition="2072">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2036" endLine="64" endPosition="2057">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2037" endLine="64" endPosition="2046">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2047" endLine="64" endPosition="2056">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0/@annotations.0/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2058" endLine="64" endPosition="2064">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2058" endLine="64" endPosition="2064">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="2074" endLine="66" endPosition="2110">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2080" endLine="65" endPosition="2106">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2087" endLine="65" endPosition="2105">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2097" endLine="65" endPosition="2104">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2116" endLine="82" endPosition="2579">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2124" endLine="68" endPosition="2143">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2154" endLine="68" endPosition="2160">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2154" endLine="68" endPosition="2168">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2154" endLine="68" endPosition="2160">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="2170" endLine="82" endPosition="2579">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="2176" endLine="69" endPosition="2200">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="2176" endLine="69" endPosition="2249">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="2201" endLine="69" endPosition="2248">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="2218" endLine="69" endPosition="2248">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="2222" endLine="69" endPosition="2246">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="2255" endLine="79" endPosition="2526">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="2259" endLine="77" endPosition="2471">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2267" endLine="72" endPosition="2310">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2267" endLine="72" endPosition="2275">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2276" endLine="72" endPosition="2309">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2291" endLine="72" endPosition="2309">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2291" endLine="72" endPosition="2298">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="72" startPosition="2305" endLine="72" endPosition="2308">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2317" endLine="76" endPosition="2464">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2322" endLine="73" endPosition="2328">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@parameter/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2322" endLine="73" endPosition="2328">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@parameter/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2322" endLine="73" endPosition="2335">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@parameter"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2337" endLine="73" endPosition="2349">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="73" startPosition="2351" endLine="76" endPosition="2464">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2361" endLine="74" endPosition="2417">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2361" endLine="74" endPosition="2374">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2361" endLine="74" endPosition="2374">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2375" endLine="74" endPosition="2416">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2387" endLine="74" endPosition="2399">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2387" endLine="74" endPosition="2416">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="74" startPosition="2409" endLine="74" endPosition="2415">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="75" startPosition="2426" endLine="75" endPosition="2440">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="75" startPosition="2426" endLine="75" endPosition="2455">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="75" startPosition="2426" endLine="75" endPosition="2456">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="75" startPosition="2445" endLine="75" endPosition="2454">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@body/@statements.1/@body/@statements.1/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="2472" endLine="79" endPosition="2526">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="2479" endLine="77" endPosition="2488">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="2479" endLine="77" endPosition="2488">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="2479" endLine="77" endPosition="2490">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@exception"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="77" startPosition="2492" endLine="79" endPosition="2526">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="2500" endLine="78" endPosition="2520">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="2500" endLine="78" endPosition="2501">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="2500" endLine="78" endPosition="2519">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.1/@catchClauses.0/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2532" endLine="81" endPosition="2575">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2539" endLine="81" endPosition="2574">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2540" endLine="81" endPosition="2559">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.2/@expression/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2560" endLine="81" endPosition="2574">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.0/@bodyDeclarations.5/@body/@statements.2/@expression/@expression"/>
+    </children>
+    <unit href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.26"/>
+    <parent href="Package2Directory_java2kdm.xmi#/6"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.1"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="653" endLine="18" endPosition="675">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="677" endLine="20" endPosition="710">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="711" endLine="21" endPosition="761">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="762" endLine="22" endPosition="806">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="807" endLine="23" endPosition="834">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="835" endLine="24" endPosition="872">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="873" endLine="25" endPosition="896">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="897" endLine="26" endPosition="921">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="922" endLine="27" endPosition="950">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="951" endLine="28" endPosition="983">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="984" endLine="29" endPosition="1018">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="1019" endLine="30" endPosition="1067">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.11"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="1068" endLine="31" endPosition="1095">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.12"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="1096" endLine="32" endPosition="1134">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.13"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="1135" endLine="33" endPosition="1171">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.14"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="1173" endLine="35" endPosition="1244">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.15"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="1245" endLine="36" endPosition="1320">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27/@imports.16"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1322" endLine="70" endPosition="2373">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1322" endLine="38" endPosition="1346">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1323" endLine="38" endPosition="1327">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="1328" endLine="38" endPosition="1345">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@annotations.0/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1347" endLine="39" endPosition="1365">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1348" endLine="39" endPosition="1365">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1402" endLine="42" endPosition="1437">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1410" endLine="42" endPosition="1424">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1410" endLine="42" endPosition="1424">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1425" endLine="42" endPosition="1436">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1440" endLine="43" endPosition="1464">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1448" endLine="43" endPosition="1455">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1448" endLine="43" endPosition="1455">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="1456" endLine="43" endPosition="1463">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1469" endLine="45" endPosition="1476">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1469" endLine="45" endPosition="1531">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1470" endLine="45" endPosition="1476">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1477" endLine="45" endPosition="1503">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1477" endLine="45" endPosition="1503">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="1504" endLine="45" endPosition="1530">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1535" endLine="51" endPosition="1656">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1535" endLine="47" endPosition="1543">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1536" endLine="47" endPosition="1543">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1553" endLine="48" endPosition="1557">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1565" endLine="48" endPosition="1568">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1565" endLine="48" endPosition="1572">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1565" endLine="48" endPosition="1568">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1574" endLine="51" endPosition="1656">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1580" endLine="49" endPosition="1615">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1580" endLine="49" endPosition="1614">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1580" endLine="49" endPosition="1591">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1594" endLine="49" endPosition="1614">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1594" endLine="49" endPosition="1597">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1620" endLine="50" endPosition="1627">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1620" endLine="50" endPosition="1651">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1620" endLine="50" endPosition="1652">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1630" endLine="50" endPosition="1651">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1630" endLine="50" endPosition="1633">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.3/@body/@statements.1/@expression/@rightHandSide/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="1660" endLine="53" endPosition="1664">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="1660" endLine="63" endPosition="2086">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="1661" endLine="53" endPosition="1664">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1667" endLine="54" endPosition="1706">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1668" endLine="54" endPosition="1676">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1677" endLine="54" endPosition="1705">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1677" endLine="54" endPosition="1686">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.1/@values.0/@value/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1687" endLine="54" endPosition="1705">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1716" endLine="55" endPosition="1720">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1730" endLine="55" endPosition="1761">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1730" endLine="55" endPosition="1738">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@parameters.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1731" endLine="55" endPosition="1738">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@parameters.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1739" endLine="55" endPosition="1751">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1739" endLine="55" endPosition="1751">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1763" endLine="63" endPosition="2086">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1769" endLine="61" endPosition="2045">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1773" endLine="56" endPosition="1799">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1773" endLine="56" endPosition="1809">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1811" endLine="58" endPosition="1886">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1819" endLine="57" endPosition="1828">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1819" endLine="57" endPosition="1879">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1819" endLine="57" endPosition="1880">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1834" endLine="57" endPosition="1841">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1834" endLine="57" endPosition="1878">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1834" endLine="57" endPosition="1870">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1847" endLine="57" endPosition="1869">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1851" endLine="57" endPosition="1857">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1851" endLine="57" endPosition="1857">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1858" endLine="57" endPosition="1868">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@thenStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="58" startPosition="1892" endLine="61" endPosition="2045">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1900" endLine="59" endPosition="1909">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1900" endLine="60" endPosition="2039">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1900" endLine="60" endPosition="2038">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1915" endLine="59" endPosition="1922">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1915" endLine="60" endPosition="2029">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1915" endLine="60" endPosition="2037">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1915" endLine="59" endPosition="1965">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1933" endLine="59" endPosition="1964">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1933" endLine="59" endPosition="1942">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="59" startPosition="1943" endLine="59" endPosition="1964">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1978" endLine="60" endPosition="1982">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1978" endLine="60" endPosition="1982">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1978" endLine="60" endPosition="1988">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1989" endLine="60" endPosition="2015">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="60" startPosition="1989" endLine="60" endPosition="2028">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.0/@elseStatement/@statements.0/@expression/@arguments.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="2050" endLine="62" endPosition="2082">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="2050" endLine="62" endPosition="2061">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="2050" endLine="62" endPosition="2081">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="62" startPosition="2071" endLine="62" endPosition="2080">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.4/@body/@statements.1/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2090" endLine="69" endPosition="2371">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2097" endLine="65" endPosition="2101">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2117" endLine="65" endPosition="2131">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2117" endLine="65" endPosition="2210">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2118" endLine="65" endPosition="2131">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2132" endLine="65" endPosition="2179">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2133" endLine="65" endPosition="2141">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2142" endLine="65" endPosition="2174">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2142" endLine="65" endPosition="2153">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@leftOperand/@qualifier/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2142" endLine="65" endPosition="2162">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@leftOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2142" endLine="65" endPosition="2178">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2154" endLine="65" endPosition="2162">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@leftOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2163" endLine="65" endPosition="2174">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2177" endLine="65" endPosition="2178">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.1/@values.0/@value/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2180" endLine="65" endPosition="2197">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2181" endLine="65" endPosition="2197">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@annotations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2198" endLine="65" endPosition="2204">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2198" endLine="65" endPosition="2204">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="2212" endLine="69" endPosition="2371">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2218" endLine="66" endPosition="2229">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2218" endLine="67" endPosition="2366">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2218" endLine="67" endPosition="2365">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2240" endLine="66" endPosition="2247">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2240" endLine="67" endPosition="2364">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2240" endLine="67" endPosition="2356">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2240" endLine="66" endPosition="2290">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2258" endLine="66" endPosition="2289">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2258" endLine="66" endPosition="2267">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="2268" endLine="66" endPosition="2289">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="2305" endLine="67" endPosition="2309">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="2305" endLine="67" endPosition="2309">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@arguments.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="2305" endLine="67" endPosition="2315">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="2316" endLine="67" endPosition="2355">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="2316" endLine="67" endPosition="2342">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@arguments.0/@expression/@arguments.1/@expression"/>
+    </children>
+    <unit href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.27"/>
+    <parent href="Package2Directory_java2kdm.xmi#/6"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.5/@inventoryElement.0"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="653" endLine="18" endPosition="688">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.28/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="19" startPosition="689" endLine="19" endPosition="725">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.28/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="727" endLine="-1" endPosition="840">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="727" endLine="24" endPosition="755">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="737" endLine="23" endPosition="751">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@comments.0/@tags.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="744" endLine="23" endPosition="751">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@comments.0/@tags.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="756" endLine="25" endPosition="781">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="757" endLine="25" endPosition="772">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="773" endLine="25" endPosition="780">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@annotations.0/@values.0/@value"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="820" endLine="26" endPosition="831">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="26" startPosition="820" endLine="26" endPosition="831">
+      <node href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4/@ownedElements.2/@superClass"/>
+    </children>
+    <unit href="../io.openliberty.sample.daytrader8_java.xmi#//@compilationUnits.28"/>
+    <parent href="Package2Directory_java2kdm.xmi#/6"/>
+  </javaapplication:Java2File>
+</xmi:XMI>

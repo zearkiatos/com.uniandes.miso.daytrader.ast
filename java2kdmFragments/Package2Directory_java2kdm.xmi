@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.4"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.beans_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.beans_java2kdm.xmi#/1"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.6"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.entities_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.entities_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.entities_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.entities_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.entities_java2kdm.xmi#/4"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedPackages.0"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.direct_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.direct_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.direct_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.direct_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.direct_java2kdm.xmi#/4"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedPackages.1"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.2"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.ejb3_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.ejb3_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.ejb3_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.ejb3_java2kdm.xmi#/3"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedPackages.2"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.impl.session2direct_java2kdm.xmi#/"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.3"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.7"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.interfaces_java2kdm.xmi#/8"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.4"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.5"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.jaxrs_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.jaxrs_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.jaxrs_java2kdm.xmi#/2"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.5"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.mdb_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.mdb_java2kdm.xmi#/1"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.6"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.2"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/8"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.util_java2kdm.xmi#/9"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.0"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.3"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/8"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/9"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/10"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.jsf_java2kdm.xmi#/11"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/8"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/9"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/10"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/11"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/12"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/13"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/14"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/15"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/16"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/17"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/18"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/19"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/20"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/21"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/22"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/23"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/24"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/25"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/26"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/27"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/28"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/29"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/30"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/31"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/32"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/33"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims_java2kdm.xmi#/34"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.0"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.23"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.beanval_java2kdm.xmi#/5"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.1"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.22"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/8"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/9"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/10"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/11"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/12"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/13"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.cdi_java2kdm.xmi#/14"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.2"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.34"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.drive_java2kdm.xmi#/"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.3"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.40"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/7"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/8"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.ejb3_java2kdm.xmi#/9"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.4"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.17"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.http2_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.http2_java2kdm.xmi#/1"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.1/@ownedPackages.5"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.2/@inventoryElement.32"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.jaxrs_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.jaxrs_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.jaxrs_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.prims.jaxrs_java2kdm.xmi#/3"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.2"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.1"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/6"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.servlet_java2kdm.xmi#/7"/>
+  </javaapplication:Java2Directory>
+  <javaapplication:Java2Directory>
+    <javaPackage href="../io.openliberty.sample.daytrader8_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.7/@ownedPackages.3"/>
+    <directory href="../io.openliberty.sample.daytrader8_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.20/@inventoryElement.0/@inventoryElement.1/@inventoryElement.2/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.3/@inventoryElement.0"/>
+    <parent href="../io.openliberty.sample.daytrader8_java2kdm.xmi#/"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/0"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/1"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/2"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/3"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/4"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/5"/>
+    <java2FileChildren href="com.ibm.websphere.samples.daytrader.web.websocket_java2kdm.xmi#/6"/>
+  </javaapplication:Java2Directory>
+</xmi:XMI>
