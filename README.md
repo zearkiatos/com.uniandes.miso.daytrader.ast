@@ -20,6 +20,7 @@ This is a project to apply a software modernization 🧑🏻‍💻
 [self.model->select(s|s.name.equalsIgnoreCase('io.openliberty.sample.daytrader8'))/]
 
 [self.eAllContents(ClassUnit)/]
+[self.moduleRelations->select(e|e.sourceModule.name="general parameters"->collect(e|e.targetModule)) /]
 ```
 # Functions in Acceleo
 | Operador    | Descripción | Ejemplo    | Resultado |
